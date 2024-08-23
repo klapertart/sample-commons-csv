@@ -10,7 +10,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 
 /**
- * @author tritronik
+ * @author klapertart
  * @since 8/23/2024
  */
 
